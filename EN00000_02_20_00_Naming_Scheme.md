@@ -45,7 +45,7 @@ EN_01234__Dummy_Project.ini
 
 
 
-(see [Metadate](EN00000_00_00_00_Start.md))
+(see [Metadata](EN00000_02_10_00_Metadata.md))
 
 
 ***[Back to Start Page](EN00000_00_00_00_Start.md)***
