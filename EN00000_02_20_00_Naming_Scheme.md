@@ -3,7 +3,7 @@ Naming Scheme
 
 ***[Back to Start Page](EN00000_00_00_00_Start.md)***
 
-To set up a new project on CEN/CENELC’s open source repository the following naming convention must be use.
+To set up a new repository (project) on CEN/CENELCâ€™s open source repository the following naming convention must be use.
 
 Proposed scheme
 ---------------
@@ -22,6 +22,30 @@ EN_01234__Dummy_Project
 ```
 
 See demos at: [https://github.com/DIN-DKE?tab=repositories]
+
+Files within the repository can be given any name.
+
+
+Execption
+---------
+
+The mandatory file containing the project metadata must follow the above rule:
+
+
+```
+<standard name>__<arbitrary_project_title>.ini
+```
+
+For example:
+
+
+```
+EN_01234__Dummy_Project.ini
+```
+
+
+
+(see [Metadate](EN00000_00_00_00_Start.md))
 
 
 ***[Back to Start Page](EN00000_00_00_00_Start.md)***
