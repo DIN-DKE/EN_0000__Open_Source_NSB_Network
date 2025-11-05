@@ -3,7 +3,7 @@
   -----------------------------------------------------------------------
   Section:          20 / Cooperation
   ----------------- -----------------------------------------------------
-  Version:          0.0 -- 250423 mr: Template
+  Version:         ![version](https://img.shields.io/badge/version-0.0.0-blue) -- 250423 mr: Template
 
   Responsible:                    
 
@@ -19,7 +19,8 @@
                     application of standards, and should seek to
                     establish links by contacting the relevant SDOs.
 
-  Time horizon:     04/25 - Start ![coverage](https://img.shields.io/badge/coverage-10%25-yellowgreen)
+  Time horizon:     04/25 - Start 
+  ![coverage](https://img.shields.io/badge/coverage-10%25-yellowgreen)
   
   -----------------------------------------------------------------------
 
