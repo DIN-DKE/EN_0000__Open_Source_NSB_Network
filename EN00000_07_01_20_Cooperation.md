@@ -5,11 +5,7 @@
   ----------------- -----------------------------------------------------
   Version:          0.0 -- 250423 mr: Template
 
-  Responsible:      
-
-                    
-
-                    
+  Responsible:                    
 
   To:               Stakeholders in standardisation // DIN/DKE
                     cooperation
@@ -24,6 +20,7 @@
                     establish links by contacting the relevant SDOs.
 
   Time horizon:     04/25 - Start
+  
   -----------------------------------------------------------------------
 
 ## Comment
