@@ -8,7 +8,7 @@
   To:               Open Source Foundations and Communities // DIN/DKE
                     collaboration
 
-  Field of action:  governace
+  Field of action:  informative
 
   Recommendation:   
 
