@@ -1,3 +1,26 @@
+  -----------------------------------------------------------------------
+  Section:          -- / Links & Literature
+  ----------------- -----------------------------------------------------
+  Version:          0.0 -- 251105 mr: Template added
+
+  Responsible:      N.N.                  
+
+  To:               Open Source Foundations and Communities // DIN/DKE
+                    collaboration
+
+  Field of action:  governace
+
+  Recommendation:   
+
+  Time horizon:     04/25 - Start
+  
+  -----------------------------------------------------------------------
+
+
+
+
+
+
 Useful Links
 ============
 
